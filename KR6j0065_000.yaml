@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0065/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 蘇婆呼童子請問經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T18/T18n0895a.xml
+    old_id: T18n0895a
+hash: sha256:63c4e3cc1d6c901275dc18113b73cf814f3f99602152948a2933d94abe6658c3
